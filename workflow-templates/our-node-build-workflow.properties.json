@@ -1,0 +1,15 @@
+{
+    "name": "Node building",
+    "description": "k-t-or2 organization CI starter workflow for node",
+    "iconName": "octicon home",
+    "categories": [
+        "Webpack",
+        "JavaScript",
+        "continuous-integration"
+    ],
+    "filePatterns": [
+        "jedi-way.md"
+    ]
+
+}
+
